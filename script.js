@@ -585,6 +585,15 @@ const certifications = [
         issued: "Oct 2026",
         credential: "YGDra5L",
         link: ""
+    },
+    {
+        logo: "Satr-Tuwaiq-Academy.svg",
+        badge: "POWER BI",
+        title: "Power BI 103",
+        organization: "Satr (Tuwaiq Academy)",
+        issued: "Oct 2026",
+        credential: "",
+        link: "power-bi-103.pdf"
     }
 ];
 
