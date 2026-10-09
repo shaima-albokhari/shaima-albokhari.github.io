@@ -578,7 +578,7 @@ const certifications = [
             "https://www.coursera.org/account/accomplishments/verify/ZAE0GS7DSNIA"
     },
     {
-        logo: "Tuwaiq-Academy.png",
+        logo: "Tuwaiq-Academy.svg",
         badge: "R",
         title: "Data Analysis Using R",
         organization: "Tuwaiq Academy",
