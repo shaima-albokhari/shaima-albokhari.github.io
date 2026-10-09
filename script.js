@@ -576,6 +576,15 @@ const certifications = [
         credential: "",
         link:
             "https://www.coursera.org/account/accomplishments/verify/ZAE0GS7DSNIA"
+    },
+    {
+        logo: "Tuwaiq-Academy.png",
+        badge: "R",
+        title: "Data Analysis Using R",
+        organization: "Tuwaiq Academy",
+        issued: "Oct 2026",
+        credential: "YGDra5L",
+        link: ""
     }
 ];
 
