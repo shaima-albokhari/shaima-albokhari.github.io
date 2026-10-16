@@ -256,3 +256,15 @@
 #certifications .swiper-slide .certificate-card {
     transition: transform 0.25s ease, border-color 0.25s ease !important;
 }
+
+#certifications .certificate-card {
+    min-height: 350px;      /* غيّريها حسب الطول اللي تبينه */
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* يثبّت زر الرابط في أسفل الكارد */
+#certifications .certificate-card > a {
+    margin-top: auto;
+}

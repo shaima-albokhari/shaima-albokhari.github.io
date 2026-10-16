@@ -530,18 +530,18 @@ function setupProjectDescriptions(cards) {
 
 const certifications = [
     {
-        logo: "microsoft.jpg",
+        logo: "MOS_Excel.png",
         badge: "EXCEL",
         title:
             "Microsoft Office Specialist: Excel 2019 Associate",
         organization: "Microsoft",
         issued: "Jul 2024",
         credential: "dbmA-uTLC",
-        link: ""
+        link: "certificates/MOS_Excel.pdf"
     },
 
     {
-        logo: "cisco.jpg",
+        logo: "cisco-introduction-to-data-science.png",
         badge: "DATA",
         title:
             "Introduction to Data Science",
@@ -561,7 +561,7 @@ const certifications = [
         organization:
             "DeepLearning.AI",
         issued: "Nov 2025",
-        credential: "",
+        credential: "JGZ1CNLTJSGI",
         link:
             "https://www.coursera.org/account/accomplishments/verify/JGZ1CNLTJSGI"
     },
@@ -573,7 +573,7 @@ const certifications = [
         organization:
             "University of Michigan",
         issued: "Nov 2025",
-        credential: "",
+        credential: "ZAE0GS7DSNIA",
         link:
             "https://www.coursera.org/account/accomplishments/verify/ZAE0GS7DSNIA"
     },
@@ -584,7 +584,7 @@ const certifications = [
         organization: "Tuwaiq Academy",
         issued: "Oct 2026",
         credential: "YGDra5L",
-        link: ""
+        link: "certificates/Data-Analysis-Using-R.pdf"
     },
     {
         logo: "Satr-Tuwaiq-Academy.svg",
